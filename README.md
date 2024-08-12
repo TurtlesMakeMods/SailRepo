@@ -1,2 +1,4 @@
 # SailRepo
-Python repo for Sail | Titus Domey - TUHSD
+Python repo for Sail
+👅
+freaky ahh Sail repo
