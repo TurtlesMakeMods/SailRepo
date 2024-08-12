@@ -1,3 +1,4 @@
 # SailRepo
 Python repo for Sail
-:freakyemoji:
+👅
+freaky ahh Sail repo
